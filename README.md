@@ -55,7 +55,7 @@ A payment application to demonstrate <strong>real-world</strong> usage of <a hre
 
 The Cypress Real-World App (RWA) is a full-stack Express/React application backed by a local JSON database ([lowdb]).
 
-The above said app is bundled with [example data](./data/database.json) (`data/database.json`) that contains everything you need to start using the app and run tests out-of-the-box.
+The app is bundled with [example data](./data/database.json) (`data/database.json`) that contains everything you need to start using the app and run tests out-of-the-box.
 
 > 🚩 **Note**
 >
@@ -64,9 +64,9 @@ The above said app is bundled with [example data](./data/database.json) (`data/d
 
 ### Prerequisites
 
-The only requirement for this project is to have [Node.js](https://nodejs.org/en/) **version-12** installed on your computer/laptop. Refer to the [.node-version](./.node-version) file for the exact version.
+The only requirement for this project is to have [Node.js](https://nodejs.org/en/) **version 12** installed on your machine. Refer to the [.node-version](./.node-version) file for the exact version.
 
-TypeScript will be added as a local dependency to the project, so no need to ```install``` it.
+TypeScript will be added as a local dependency to the project, so no need to install it.
 
 ### Installation
 
